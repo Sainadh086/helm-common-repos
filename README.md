@@ -20,3 +20,5 @@ This chart helps you to deploy the container in Kubernetes without writing any e
 
 
 By default ngnix will be installed. Will be update with new version including many more usecases.
+
+New version is comming soon.
